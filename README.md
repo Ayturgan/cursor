@@ -1,1 +1,1 @@
-# cursor
+# https://ayturgan.github.io/cursor/
